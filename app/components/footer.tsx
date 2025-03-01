@@ -30,7 +30,7 @@ export default function Footer() {
             </Link>
             <p className="mt-3 text-sm text-slate-700">
               Compete in exciting challenges, complete missions, and earn real
-              rewards on Bounty Game.
+              rewards on Sikkim.
             </p>
             <p className="mt-3 text-sm text-slate-700">
               Copyright © {new Date().getFullYear()} - All rights reserved

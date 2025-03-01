@@ -9,7 +9,7 @@ export default function Pricing() {
           </h2>
           <div className="mx-auto max-w-md font-medium text-slate-500">
             Dominate the battlefield, conquer challenges, and claim epic rewards
-            in Bounty Game!
+            in Sikkim!
           </div>
         </div>
         <div className="relative flex flex-col items-stretch justify-center gap-8 lg:flex-row">

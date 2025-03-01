@@ -76,7 +76,7 @@ export function Header() {
                 style={{ borderRadius: '4px' }}
               />
 
-              <span className="text-lg font-bold text-slate-800">Bounty</span>
+              <span className="text-lg font-bold text-slate-800">Sikkim</span>
             </Link>
             <div className="hidden justify-center items-center lg:flex lg:gap-10">
               <NavLinks />

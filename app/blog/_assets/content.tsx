@@ -136,7 +136,7 @@ export const authors: authorType[] = [
     // The name to display in the author's bio. Up to 60 characters.
     name: 'Artem Kirsanov',
     // The job to display in the author's bio. Up to 60 characters.
-    job: 'Maker of Bounty Game',
+    job: 'Maker of Sikkim Game',
     // The description of the author to display in the author's bio. Up to 160 characters.
     description:
       "Artem is a developer and an entrepreneur. He's built 3 startups in the last  years.He's currently building Quillminds, the #1 Stripe AI tool for teachers.",
@@ -216,13 +216,13 @@ export const articles: articleType[] = [
     image: {
       src: quillmindsImg,
       urlRelative: '/cover.png',
-      alt: 'Bounty Game',
+      alt: 'Sikkim',
     },
     content: (
       <>
         <Image
           src={quillmindsImg}
-          alt="BOuntyGame"
+          alt="Sikkim"
           width={700}
           height={500}
           priority={true}
